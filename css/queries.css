@@ -317,6 +317,11 @@
 
   .cta {
     grid-template-columns: 1fr;
+    overflow: hidden;
+  }
+
+  .cta-form {
+    overflow: hidden;
   }
 
   .cta-img-box {
