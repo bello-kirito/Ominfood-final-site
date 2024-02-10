@@ -336,14 +336,6 @@
   .delivered-meals {
     gap: 8rem;
   }
-
-  .cta {
-    overflow: hidden;
-  }
-
-  .cta-form {
-    overflow: hidden;
-  }
 }
 
 /**************************/
